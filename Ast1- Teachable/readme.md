@@ -1,4 +1,6 @@
 **Assignment 1**
+
+
 **1. No Code Models**
 Objective: Build one image model, one pose model, one audio model using Teachable Machines to showcase in class.
 Demonstration: Demo in class your innovative work. You can find inspiration from this YouTube Playlist.
