@@ -1,4 +1,5 @@
 **Neural networks with Keras - advanced **
+
 a) Write simple colabs to illustrate various data augmentation and generalization techniques (with A/B tests)
 
 Write in both tensorflow
