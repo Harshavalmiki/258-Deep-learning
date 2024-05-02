@@ -1,3 +1,5 @@
+**Demo Video link**- https://youtu.be/jhEFXnVXbGA
+
 **Neural networks with Keras - advanced**
 
 a) Write simple colabs to illustrate various data augmentation and generalization techniques (with A/B tests)
@@ -61,5 +63,4 @@ Google colab link: https://colab.research.google.com/drive/1C6RZ1yCytDVb7_wumk-J
 
 
 
-**Demo Video link**- https://youtu.be/jhEFXnVXbGA
 
