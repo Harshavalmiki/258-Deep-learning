@@ -59,3 +59,7 @@ hint: https://github.com/fastai/fastbook/blob/master/07_sizing_and_tta.ipynbLink
 
 Google colab link: https://colab.research.google.com/drive/1C6RZ1yCytDVb7_wumk-JNBAw4fwufqUu?usp=sharing
 
+
+
+**Demo Video link**- https://youtu.be/jhEFXnVXbGA
+
