@@ -1,4 +1,7 @@
-**Assignment-5**
+# Assignment-5
+
+**Demo Video**-https://youtu.be/ha7zSmGJqko
+
 
 **Guidelines**
 You must create a 3-layer neural network.You must use einsum.
@@ -25,7 +28,6 @@ A5_pt_4(Pytorch_Lightning).ipynb: Colab for PyTorch Lightning Version portion of
 A5_pt__5(NN_Tensorflow).ipynb: Colab for Tensorflow portion of assignment. This includes scratch, built-in, low-level API, and high-level API.
 A5_pt_6(JAX).ipynb: Colab for JAX portion of assignment.
 
-**Demo Video**-
 
 **References**-
 Deep Learning Fundamentals Part 01
